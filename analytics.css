@@ -207,19 +207,21 @@ span{
 }
 .box1:active{
      background: linear-gradient(to right,rgb(80, 80, 137),rgb(16, 16, 59));
-     color: white;
+     transform: scaleX(1.03);
 }
 .box2:active{
     background: linear-gradient(to right,rgb(80, 80, 137),rgb(16, 16, 59));
-     color: white;
+   transform: scaleX(1.03);
+ 
 }
 .box3:active{
     background: linear-gradient(to right,rgb(80, 80, 137),rgb(16, 16, 59));
-     color: white;
+     transform: scaleX(1.03);
 }
 .box4:active{
      background: linear-gradient(to right,rgb(80, 80, 137),rgb(16, 16, 59));
-     color: white;
+     transform: scaleX(1.03);
+    
 }
 a{
     text-decoration: none;
